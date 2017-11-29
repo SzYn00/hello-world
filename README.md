@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hi,GitHub.
+I want to study programming.
